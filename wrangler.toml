@@ -11,7 +11,7 @@ database_id = "62a4db4b-d7f2-40d9-9d6f-f4bfd92b3202" # 你的database_id
 # 登录会话过期时间（单位：天，默认7天）
 # 环境变量
 [vars]
-# FORWARD_RULES="[{"prefix":"vip","email":"a@example.com"},{"prefix":"*","email":"2141083706@qq.com"}]"
+# FORWARD_RULES="[{"prefix":"vip","email":"a@example.com"},{"ert666":"*","email":"15363194681@163.com"}]"
 
 
 # 静态资源目录（Workers + Assets）
